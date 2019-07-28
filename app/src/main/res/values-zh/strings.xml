@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SexyWallpaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_01">欧美美女</string>
+    <string name="menu_02">亚洲美女</string>
+    <string name="menu_03">欧美帅哥</string>
+    <string name="menu_04">亚洲帅哥</string>
+    <string name="menu_05">动物</string>
+    <string name="menu_06">美景</string>
+    <string name="menu_07">其他</string>
+    <string name="menu_08">相册</string>
+    <string name="text_about">关于</string>
+    <string name="text_my_video">我的视频</string>
+    <string name="text_system_information">系统信息</string>
+    <string name="text_game">游戏</string>
+    <string name="text_phone">手机</string>
+    <string name="text_setting">设置</string>
+
+
+</resources>
